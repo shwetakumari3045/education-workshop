@@ -1,0 +1,8 @@
+@media screen and (max-width:768px){
+    .course-content{
+        flex-wrap:wrap
+    }
+    .hero-heading{
+        font-size: 36px;
+    }
+}
